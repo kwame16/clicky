@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Arnold",
+      "image": "./images/Arnold.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dag and Norbert's",
+        "image": "./images/angrybeavers.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dexter",
+        "image": "./images/dexter.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Ed, Edd & Eddy",
+        "image": "./images/ed-edd-eddy.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Gerald",
+        "image": "./images/gerald.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Twister",
+        "image": "./images/twister.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Otto",
+        "image": "./images/otto.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Skeeter",
+        "image": "./images/skeeter.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Suga-Mama",
+        "image": "./images/suga-mama.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Tommy Pickles",
+        "image": "./images/tommy-pickles.jpg"
+      }           
+  ]
+  
